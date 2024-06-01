@@ -11,6 +11,7 @@
   <div class="container">
     <h1 class="mt-4">Registration form</h1>
     <hr>
+    <div id="response"></div>
     <form class="col-md-5 mt-4" id="registrationForm">
       <div class="row mb-3">
         <div class="col-md-6">
